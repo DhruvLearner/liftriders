@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "liftrides",
+    "slug": "liftrides",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "liftrides"
+}
